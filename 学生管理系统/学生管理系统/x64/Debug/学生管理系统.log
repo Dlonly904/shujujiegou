@@ -1,0 +1,4 @@
+﻿  学生管理系统.cpp
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\学生管理系统\学生管理系统\LinkList.h(129): warning C4715: “LinkList<Student>::Get”: 不是所有的控件路径都返回值
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\学生管理系统\学生管理系统\LinkList.h(202): warning C4715: “LinkList<Student>::Delete”: 不是所有的控件路径都返回值
+  学生管理系统.vcxproj -> C:\Users\wcy\Desktop\学习\数据结构\上机实验\学生管理系统\x64\Debug\学生管理系统.exe
