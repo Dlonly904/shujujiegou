@@ -1,0 +1,4 @@
+﻿  栈的作业.cpp
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\栈\栈\栈的作业.cpp(288,4): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\栈\栈\栈的作业.cpp(176): warning C4715: “Trans”: 不是所有的控件路径都返回值
+  栈.vcxproj -> C:\Users\wcy\Desktop\学习\数据结构\上机实验\栈\x64\Debug\栈.exe
