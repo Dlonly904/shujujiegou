@@ -1,0 +1,13 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(26,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(27,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(57,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(95,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(95,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(126,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(126,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(150,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(150,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(175,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\ConsoleApplication2\ConsoleApplication2.cpp(208,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication2.vcxproj -> C:\Users\wcy\Desktop\学习\数据结构\上机实验\串\x64\Debug\ConsoleApplication2.exe
